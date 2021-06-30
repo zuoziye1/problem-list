@@ -38,3 +38,8 @@ https://blog.csdn.net/sqlgao22/article/details/100697214
 14. 如何找到占用进程高的cpu,占用cpu高的线程，以及分析
 
 15. mongoDB的学习和使用场景
+
+16. mysql 存储过程插入1000万数据
+
+1.只是加了一些log，这样这个tragger会在两个实例里面都正常执行吗？
+1.只是加了一些log，这样这个tragger会在两个实例里面都正常执行吗
