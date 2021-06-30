@@ -34,3 +34,5 @@ https://blog.csdn.net/sqlgao22/article/details/100697214
 12. mysql中存在大字段的危害
 
 13. mysql中存url时，如何存放，存放很长对性能有影响，存放的短，又会出现放不下的情况
+
+14. 如何找到占用进程高的cpu,占用cpu高的线程，以及分析
