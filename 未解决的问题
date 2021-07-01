@@ -51,5 +51,7 @@ https://blog.csdn.net/sqlgao22/article/details/100697214
 
 21. rpc 实现
 
+22. jvm 性能查询
+
 1.只是加了一些log，这样这个tragger会在两个实例里面都正常执行吗？
 1.只是加了一些log，这样这个tragger会在两个实例里面都正常执行吗
