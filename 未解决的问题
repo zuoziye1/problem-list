@@ -41,5 +41,15 @@ https://blog.csdn.net/sqlgao22/article/details/100697214
 
 16. mysql 存储过程插入1000万数据
 
+17. 字符编码问题
+
+18. UML类图
+
+19. spring 源码
+
+20. redis 数据结构
+
+21. rpc 实现
+
 1.只是加了一些log，这样这个tragger会在两个实例里面都正常执行吗？
 1.只是加了一些log，这样这个tragger会在两个实例里面都正常执行吗
