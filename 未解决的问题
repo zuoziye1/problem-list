@@ -57,5 +57,9 @@ https://blog.csdn.net/sqlgao22/article/details/100697214
 
 24. kafka zookeeper
 
+25. XXL + mq 实现延迟队列
+
+26. es的使用
+
 1.只是加了一些log，这样这个tragger会在两个实例里面都正常执行吗？
 1.只是加了一些log，这样这个tragger会在两个实例里面都正常执行吗
